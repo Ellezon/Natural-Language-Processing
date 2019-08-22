@@ -1,1 +1,3 @@
 # Natural-Language-Processing
+
+Communication between components in a computer system is done mainly in binary and other low level languages. This hinders humans from communicating with electronic devices easily and quickly.  Natural language processing is aimed towards bridging this gap between people and devices by programming computers to work with natural languages such as English. The program described in the later sections allows the user to ask questions about arrival or departure flights in English, parses the input, queries the database and returns answers accordingly. 
